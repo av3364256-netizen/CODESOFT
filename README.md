@@ -1,2 +1,28 @@
 # CODESOFT
-CODESOFT CODESOFT C++ Internship ---  This repository contain all the tasks completed during the CODESOFT C++ programming internship  ##TASKS COMPLETED 1.Number Guessing game 2.Simple Calculator 3.To-Do list  ##TECHNOLOGY USESD -c++ -VS code  #AUTHOR Anjali Vishwakarma
+CODESOFT CODESOFT C++ Internship --- 
+<BR>
+<BR>
+This repository contain all the tasks completed during the CODESOFT C++ programming internship 
+<BR>
+<BR>
+##TASKS COMPLETED
+<BR>
+<BR>
+1.Number Guessing game 
+<BR>
+2.Simple Calculator
+<BR>
+3.To-Do list 
+<BR>
+<BR>
+##TECHNOLOGY USESD 
+<BR>
+<BR>
+
+-c++ 
+<BR>-VS code 
+<BR>
+<BR>
+#AUTHOR
+<BR>
+Anjali Vishwakarma
