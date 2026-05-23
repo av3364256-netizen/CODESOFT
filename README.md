@@ -6,7 +6,6 @@ This repository contain all the tasks completed during the CODESOFT C++ programm
 <BR>
 <BR>
 ##TASKS COMPLETED
-
 <BR>
 1.Number Guessing game 
 <BR>
