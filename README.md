@@ -1,12 +1,12 @@
 # CODESOFT
 CODESOFT CODESOFT C++ Internship --- 
 <BR>
-<BR>
+
 This repository contain all the tasks completed during the CODESOFT C++ programming internship 
 <BR>
 <BR>
 ##TASKS COMPLETED
-<BR>
+
 <BR>
 1.Number Guessing game 
 <BR>
@@ -17,7 +17,7 @@ This repository contain all the tasks completed during the CODESOFT C++ programm
 <BR>
 ##TECHNOLOGY USESD 
 <BR>
-<BR>
+
 
 -c++ 
 <BR>-VS code 
